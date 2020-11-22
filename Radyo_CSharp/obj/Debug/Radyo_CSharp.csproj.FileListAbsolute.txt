@@ -1,0 +1,17 @@
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\bin\Debug\Radyo_CSharp.exe.config
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\bin\Debug\Radyo_CSharp.exe
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\bin\Debug\Radyo_CSharp.pdb
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\bin\Debug\Interop.WMPLib.dll
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Interop.WMPLib.dll
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.csproj.ResolveComReference.cache
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.Form1.resources
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.Properties.Resources.resources
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.csproj.GenerateResource.cache
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.exe
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.pdb
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.csprojAssemblyReference.cache
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.Form2.resources
+C:\Users\eymen\source\repos\Radyo_CSharp\Radyo_CSharp\obj\Debug\Radyo_CSharp.Form3.resources
